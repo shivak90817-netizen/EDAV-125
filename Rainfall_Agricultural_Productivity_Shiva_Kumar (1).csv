@@ -1,0 +1,11 @@
+Year,Region,Annual_Rainfall_mm,Average_Temperature_C,Fertilizer_kg_per_ha,Irrigation_Coverage_Percent,Crop_Productivity_tonnes_per_ha
+2015,Region A,720,27.1,85,35,2.1
+2016,Region A,810,26.8,90,37,2.4
+2017,Region A,765,27.3,88,38,2.3
+2018,Region A,690,27.6,82,36,1.9
+2019,Region A,940,26.4,95,42,2.8
+2020,Region A,880,26.7,98,45,2.7
+2021,Region A,795,27.0,92,44,2.5
+2022,Region A,1020,26.2,102,48,3.0
+2023,Region A,850,26.9,97,47,2.7
+2024,Region A,910,26.5,100,50,2.9
